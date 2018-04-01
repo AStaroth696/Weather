@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Текущая погода</string>
+    <string-array name="cities">
+        <item>Винница</item>
+        <item>Днепропетровск</item>
+        <item>Донецк</item>
+        <item>Житомир</item>
+        <item>Запорожье</item>
+        <item>Ивано-Франковск</item>
+        <item>Киев</item>
+        <item>Кировоград</item>
+        <item>Луганск</item>
+        <item>Луцк</item>
+        <item>Львов</item>
+        <item>Николаев</item>
+        <item>Одесса</item>
+        <item>Полтава</item>
+        <item>Ровно</item>
+        <item>Сумы</item>
+        <item>Тернополь</item>
+        <item>Ужгород</item>
+        <item>Харьков</item>
+        <item>Херсон</item>
+        <item>Хмельницкий</item>
+        <item>Черкассы</item>
+        <item>Чернигов</item>
+        <item>Черновцы</item>
+    </string-array>
+</resources>
